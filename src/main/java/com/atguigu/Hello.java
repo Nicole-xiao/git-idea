@@ -2,7 +2,7 @@ package com.atguigu;
 
 public class Hello {
     public static void main(String[] args) {
-        //hello abc
+        //hello555
         System.out.println("hello world");
     }
 }
